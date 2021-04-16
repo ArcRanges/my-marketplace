@@ -76,7 +76,7 @@ Demo 2: Realtime Chat and Push Notifications
 ## Instructions
 
 Before you run, make sure you are running the backend for this App.
-And also has configured your app/config/config.json file. [https://github.com/ArcRanges/my-marketplace/blob/main/initialize.md](Instructions here).
+And also has configured your app/config/config.json file. [Instructions here](https://github.com/ArcRanges/my-marketplace/blob/main/initialize.md).
 
 ```
 git clone <this repo>
