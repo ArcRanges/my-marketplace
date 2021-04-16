@@ -3,9 +3,12 @@ A boilerplate for a CRUD listing app with real-time messaging and push notificat
 Inspired by codewithmosh.com's course in React Native.
 
 ## Demo
-Video 1:
+Demo 1: Overall
+
 ![video-1](https://user-images.githubusercontent.com/13533171/114962718-14cc2f80-9e20-11eb-961f-825e9736696a.gif)
-Video 2:
+
+Demo 2: Realtime Chat and Push Notifications
+
 ![video-2](https://user-images.githubusercontent.com/13533171/114962724-172e8980-9e20-11eb-9a65-e153bd90ab5a.gif)
 
 ## Requirements
