@@ -1,0 +1,15 @@
+{
+    "primary": "#007aff",
+    "secondary": "lightgray",
+    "info": "#5ac8fa",
+    "warning": "#ff9500",
+    "danger": "#ff3b30",
+    "dark": "darkgray",
+    "black": "#000",
+    "white": "#fff",
+    "gray": "#6e6969",
+    "darkgray": "#0c0c0c",
+    "lightgray": "#eaeaea",
+    "medium": "#6e6969",
+    "light": "#fafafa"
+  }
