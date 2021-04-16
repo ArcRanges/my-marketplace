@@ -1,8 +1,10 @@
 # My Marketplace
+
 A boilerplate for a CRUD listing app with real-time messaging and push notification features.
 Inspired by codewithmosh.com's course in React Native.
 
 ## Demo
+
 Demo 1: Overall
 
 ![video-1](https://user-images.githubusercontent.com/13533171/114962718-14cc2f80-9e20-11eb-961f-825e9736696a.gif)
@@ -12,10 +14,12 @@ Demo 2: Realtime Chat and Push Notifications
 ![video-2](https://user-images.githubusercontent.com/13533171/114962724-172e8980-9e20-11eb-9a65-e153bd90ab5a.gif)
 
 ## Requirements
+
 - Frontend: React Native & Expo
 - Backend: NodeJS, ExpressJS, MongoDB, Firebase, ExpoSDK
 
 ## Dependencies
+
 ```
 "@bugsnag/expo": "^7.8.2",
 "@freakycoder/react-native-bounceable": "^0.2.4",
@@ -68,6 +72,7 @@ Demo 2: Realtime Chat and Push Notifications
 "react-native-web": "~0.13.12",
 "yup": "^0.32.9"
 ```
+
 ## Instructions
 
 Before you run, make sure you are running the backend for this App.
