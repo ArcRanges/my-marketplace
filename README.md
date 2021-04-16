@@ -1,5 +1,5 @@
-# marketplace-boilerplate
-A boilerplate for a CRUD listing app with future messaging features.
+# My Marketplace
+A boilerplate for a CRUD listing app with real-time messaging and push notification features.
 
 ## Requirements
 - Expo CLI
