@@ -1,7 +1,7 @@
 # My Marketplace
 
 A boilerplate for a CRUD listing app with real-time messaging and push notification features.
-Inspired by codewithmosh.com's course in React Native.
+Inspired by codewithmosh.com's course in React Native. [Link to the backend is here](https://github.com/ArcRanges/mymarketplace-backend).
 
 ## Demo
 
